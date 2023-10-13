@@ -1,0 +1,51 @@
+﻿@model AuvoTeste.Models.UploadArquivo
+@{
+    ViewData["Title"] = "Programa Para Recursos Humanos";
+}
+<h1 class="text-center">@ViewData["Title"]</h1>
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-6 offset-md-3">
+            <div class="text-center">
+                <h2>Funcionalidade</h2>
+                <p>Ao enviar uma pasta com arquivos CSV, será feita uma análise para retornar os dados necessários no formato JSON.</p>
+            </div>
+            <form enctype="multipart/form-data" method="post" asp-action="UploadFolder">
+
+                <div class="form-group">
+                    <label asp-for="Arquivos">Escolha uma pasta com arquivos CSV</label>
+                    <input asp-for="Arquivos" type="file" id="pasta" class="form-control" webkitdirectory="" directory="" />
+                </div>
+                <div class="text-danger">
+                    @Html.ValidationMessageFor(model => model.Arquivos)
+                </div>
+                <button type="submit" class="btn btn-primary mt-3">Enviar</button>
+            </form>
+
+            <form enctype="multipart/form-data" method="get" asp-action="Download" id="Download" class="mt-3">
+                <div class="progress" id="DivProgressbar" @(string.IsNullOrEmpty(DadosTempDepartamento.NomeArquivo) ? "hidden" : "")>
+                    <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" id="progressbar"></div>
+                </div>
+                <button type="submit" class="btn btn-success mt-3" id="BtnDownload" @(string.IsNullOrEmpty(DadosTempDepartamento.NomeArquivo) ? "hidden" : "")>Baixar</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+<script>
+
+    function ProgressBar() {
+        $.get("/Carregamento/Carregar", function (progress) {
+            console.log(progress)
+            $("#progressbar").css("width", progress + "%");
+            if (progress == 100) {
+                $("#DivProgressbar").prop("hidden", true);
+                $("#BtnDownload").prop("hidden", false);
+            } else {
+                $("#DivProgressbar").prop("hidden", false);
+                setTimeout(ProgressBar, 1000);
+            }
+        });
+    }
+</script>
