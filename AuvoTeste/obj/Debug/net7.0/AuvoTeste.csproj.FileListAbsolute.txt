@@ -97,3 +97,36 @@ C:\Users\paulo\OneDrive\Área de Trabalho\pronto testeauvo\AuvoTeste\AuvoTeste\o
 C:\Users\paulo\OneDrive\Área de Trabalho\pronto testeauvo\AuvoTeste\AuvoTeste\obj\Debug\net7.0\AuvoTeste.pdb
 C:\Users\paulo\OneDrive\Área de Trabalho\pronto testeauvo\AuvoTeste\AuvoTeste\obj\Debug\net7.0\AuvoTeste.genruntimeconfig.cache
 C:\Users\paulo\OneDrive\Área de Trabalho\pronto testeauvo\AuvoTeste\AuvoTeste\obj\Debug\net7.0\ref\AuvoTeste.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\git\Auvo_Teste\AuvoTeste\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\paulo\OneDrive\Área de Trabalho\git\Auvo_Teste\AuvoTeste\bin\Debug\net7.0\appsettings.json
+C:\Users\paulo\OneDrive\Área de Trabalho\git\Auvo_Teste\AuvoTeste\bin\Debug\net7.0\AuvoTeste.staticwebassets.runtime.json
+C:\Users\paulo\OneDrive\Área de Trabalho\git\Auvo_Teste\AuvoTeste\bin\Debug\net7.0\AuvoTeste.exe
+C:\Users\paulo\OneDrive\Área de Trabalho\git\Auvo_Teste\AuvoTeste\bin\Debug\net7.0\AuvoTeste.deps.json
+C:\Users\paulo\OneDrive\Área de Trabalho\git\Auvo_Teste\AuvoTeste\bin\Debug\net7.0\AuvoTeste.runtimeconfig.json
+C:\Users\paulo\OneDrive\Área de Trabalho\git\Auvo_Teste\AuvoTeste\bin\Debug\net7.0\AuvoTeste.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\git\Auvo_Teste\AuvoTeste\bin\Debug\net7.0\AuvoTeste.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\git\Auvo_Teste\AuvoTeste\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\git\Auvo_Teste\AuvoTeste\obj\Debug\net7.0\AuvoTeste.csproj.AssemblyReference.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\git\Auvo_Teste\AuvoTeste\obj\Debug\net7.0\AuvoTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\OneDrive\Área de Trabalho\git\Auvo_Teste\AuvoTeste\obj\Debug\net7.0\AuvoTeste.AssemblyInfoInputs.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\git\Auvo_Teste\AuvoTeste\obj\Debug\net7.0\AuvoTeste.AssemblyInfo.cs
+C:\Users\paulo\OneDrive\Área de Trabalho\git\Auvo_Teste\AuvoTeste\obj\Debug\net7.0\AuvoTeste.csproj.CoreCompileInputs.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\git\Auvo_Teste\AuvoTeste\obj\Debug\net7.0\AuvoTeste.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\git\Auvo_Teste\AuvoTeste\obj\Debug\net7.0\AuvoTeste.RazorAssemblyInfo.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\git\Auvo_Teste\AuvoTeste\obj\Debug\net7.0\AuvoTeste.RazorAssemblyInfo.cs
+C:\Users\paulo\OneDrive\Área de Trabalho\git\Auvo_Teste\AuvoTeste\obj\Debug\net7.0\staticwebassets\msbuild.AuvoTeste.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\paulo\OneDrive\Área de Trabalho\git\Auvo_Teste\AuvoTeste\obj\Debug\net7.0\staticwebassets\msbuild.build.AuvoTeste.props
+C:\Users\paulo\OneDrive\Área de Trabalho\git\Auvo_Teste\AuvoTeste\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AuvoTeste.props
+C:\Users\paulo\OneDrive\Área de Trabalho\git\Auvo_Teste\AuvoTeste\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AuvoTeste.props
+C:\Users\paulo\OneDrive\Área de Trabalho\git\Auvo_Teste\AuvoTeste\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\paulo\OneDrive\Área de Trabalho\git\Auvo_Teste\AuvoTeste\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\paulo\OneDrive\Área de Trabalho\git\Auvo_Teste\AuvoTeste\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\paulo\OneDrive\Área de Trabalho\git\Auvo_Teste\AuvoTeste\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\paulo\OneDrive\Área de Trabalho\git\Auvo_Teste\AuvoTeste\obj\Debug\net7.0\scopedcss\bundle\AuvoTeste.styles.css
+C:\Users\paulo\OneDrive\Área de Trabalho\git\Auvo_Teste\AuvoTeste\obj\Debug\net7.0\scopedcss\projectbundle\AuvoTeste.bundle.scp.css
+C:\Users\paulo\OneDrive\Área de Trabalho\git\Auvo_Teste\AuvoTeste\obj\Debug\net7.0\AuvoTeste.csproj.CopyComplete
+C:\Users\paulo\OneDrive\Área de Trabalho\git\Auvo_Teste\AuvoTeste\obj\Debug\net7.0\AuvoTeste.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\git\Auvo_Teste\AuvoTeste\obj\Debug\net7.0\refint\AuvoTeste.dll
+C:\Users\paulo\OneDrive\Área de Trabalho\git\Auvo_Teste\AuvoTeste\obj\Debug\net7.0\AuvoTeste.pdb
+C:\Users\paulo\OneDrive\Área de Trabalho\git\Auvo_Teste\AuvoTeste\obj\Debug\net7.0\AuvoTeste.genruntimeconfig.cache
+C:\Users\paulo\OneDrive\Área de Trabalho\git\Auvo_Teste\AuvoTeste\obj\Debug\net7.0\ref\AuvoTeste.dll

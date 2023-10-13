@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\pronto testeauvo\\AuvoTeste\\CandidatoWeb\\CandidatoWeb.csproj": {}
+    "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\git\\Auvo_Teste\\CandidatoWeb\\CandidatoWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\pronto testeauvo\\AuvoTeste\\CandidatoWeb\\CandidatoWeb.csproj": {
+    "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\git\\Auvo_Teste\\CandidatoWeb\\CandidatoWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\pronto testeauvo\\AuvoTeste\\CandidatoWeb\\CandidatoWeb.csproj",
+        "projectUniqueName": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\git\\Auvo_Teste\\CandidatoWeb\\CandidatoWeb.csproj",
         "projectName": "CandidatoWeb",
-        "projectPath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\pronto testeauvo\\AuvoTeste\\CandidatoWeb\\CandidatoWeb.csproj",
+        "projectPath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\git\\Auvo_Teste\\CandidatoWeb\\CandidatoWeb.csproj",
         "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\pronto testeauvo\\AuvoTeste\\CandidatoWeb\\obj\\",
+        "outputPath": "C:\\Users\\paulo\\OneDrive\\Área de Trabalho\\git\\Auvo_Teste\\CandidatoWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

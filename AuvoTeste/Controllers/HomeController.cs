@@ -36,10 +36,14 @@ namespace AuvoTeste.Controllers
         public IActionResult Download()
         {
             var departamentoTemp = DadosTempDepartamento.Departamento?.OrderBy(d => d.Departamentos).ToList();
-            var jsonstr = JsonSerializer.Serialize(departamentoTemp);
-            var byteArray = System.Text.Encoding.UTF8.GetBytes(jsonstr);
 
-            return File(byteArray, "application/json", DadosTempDepartamento.NomeArquivo + ".json");
+            var options = new JsonSerializerOptions();
+            options.Encoder = System.Text.Encodings.Web.JavaScriptEncoder.UnsafeRelaxedJsonEscaping;
+
+            var jsonstr = JsonSerializer.Serialize(departamentoTemp, options);
+            byte[] byteArray = System.Text.Encoding.Default.GetBytes(jsonstr);
+
+            return File(byteArray, "application/force-download", DadosTempDepartamento.NomeArquivo + ".json");
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
